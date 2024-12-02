@@ -60,3 +60,13 @@ The model used in this project is a simple **Fully Connected Neural Network (FCN
 
 ---
 
+## Installation
+
+1. Clone repository:
+   ```bash
+   git clone https://github.com/yourusername/speech-emotion-recognition.git
+   cd speech-emotion-recognition
+Install Dependencies:
+```bash
+pip install -r requirements.txt
+
